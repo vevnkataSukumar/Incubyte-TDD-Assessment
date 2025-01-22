@@ -1,0 +1,20 @@
+{
+  "name": "incubyte-tdd-assessment",
+  "version": "1.0.0",
+  "description": "Incubyte TDD Assessment",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JS",
+    "TDD",
+    "Testing"
+  ],
+  "author": "Venkata Sukumar D",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
